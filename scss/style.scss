@@ -1,0 +1,16 @@
+.col-6{
+    width: 500px;
+    height: 1000px;
+    padding: 100 px;
+    background-color: black;
+    justify-content: center;
+    position: relative;
+}
+.circle{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: chocolate;
+    align-items: center;
+    position: absolute;
+}
